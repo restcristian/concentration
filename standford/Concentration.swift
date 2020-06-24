@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Standford {
+class Concentration {
     private(set) var cards =  [Card]()
     private var indexOfOneAndOnlyFacedUpCard: Int? {
         get{

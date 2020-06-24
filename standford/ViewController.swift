@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    private lazy var game =  Standford(numOfPairsOfCards: numOfPairsOfCards)
+    private lazy var game =  Concentration(numOfPairsOfCards: numOfPairsOfCards)
     
     var numOfPairsOfCards: Int {
         return (cardButtons.count + 1) / 2

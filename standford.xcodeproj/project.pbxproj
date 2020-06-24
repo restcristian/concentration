@@ -13,7 +13,7 @@
 		A5CAE596249BB07F00474A17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5CAE594249BB07F00474A17 /* Main.storyboard */; };
 		A5CAE598249BB08000474A17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5CAE597249BB08000474A17 /* Assets.xcassets */; };
 		A5CAE59B249BB08000474A17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5CAE599249BB08000474A17 /* LaunchScreen.storyboard */; };
-		A5CAE5A4249C0A0B00474A17 /* Standford.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CAE5A3249C0A0B00474A17 /* Standford.swift */; };
+		A5CAE5A4249C0A0B00474A17 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CAE5A3249C0A0B00474A17 /* Concentration.swift */; };
 		A5CAE5A6249C0ACB00474A17 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CAE5A5249C0ACB00474A17 /* Card.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +26,7 @@
 		A5CAE597249BB08000474A17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5CAE59A249BB08000474A17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5CAE59C249BB08000474A17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A5CAE5A3249C0A0B00474A17 /* Standford.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Standford.swift; sourceTree = "<group>"; };
+		A5CAE5A3249C0A0B00474A17 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
 		A5CAE5A5249C0ACB00474A17 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,7 +60,7 @@
 		A5CAE58D249BB07F00474A17 /* standford */ = {
 			isa = PBXGroup;
 			children = (
-				A5CAE5A3249C0A0B00474A17 /* Standford.swift */,
+				A5CAE5A3249C0A0B00474A17 /* Concentration.swift */,
 				A5CAE5A5249C0ACB00474A17 /* Card.swift */,
 				A5CAE5A2249BB39000474A17 /* supporting files */,
 				A5CAE590249BB07F00474A17 /* SceneDelegate.swift */,
@@ -156,7 +156,7 @@
 				A5CAE58F249BB07F00474A17 /* AppDelegate.swift in Sources */,
 				A5CAE5A6249C0ACB00474A17 /* Card.swift in Sources */,
 				A5CAE591249BB07F00474A17 /* SceneDelegate.swift in Sources */,
-				A5CAE5A4249C0A0B00474A17 /* Standford.swift in Sources */,
+				A5CAE5A4249C0A0B00474A17 /* Concentration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
